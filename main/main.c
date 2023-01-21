@@ -16,10 +16,12 @@ how to compile:
 
 1. https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md
 
-2. if you are using ESP32DEVKITC
+2. use simple project esp32 example as default project structure. Here is not full project.
+
+3. if you are using ESP32DEVKITC
 set target ESP32 -> ESP32 via ESP-PROG
 
-3. compile and flash
+4. compile and flash
 
 how to test this example via curl:
 
